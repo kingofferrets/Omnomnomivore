@@ -82,7 +82,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe8be0d47e6b87741b399a8759cd3e6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: .0700000003
+  speed: .0399999991
   pos: {fileID: 400000}
   trigger: {fileID: 6500002}
   sprite: {fileID: 21200000}
